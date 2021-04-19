@@ -1,5 +1,7 @@
 obj/
 bin/
+*.csproj
+*.sln
 # globs
 Makefile.in
 *.userprefs
